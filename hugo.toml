@@ -1,0 +1,13 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Mandolyn Harkness'
+theme = "notrack"
+
+[params]
+author = 'Mandolyn Harkness'
+siteHeading = 'Mandolyn - History Blog'
+mainSections = ['blog']
+
+[params.social]
+github = 'mjharkn'
+email = 'mjharkn@clemson.edu'

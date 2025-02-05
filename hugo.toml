@@ -5,7 +5,7 @@ theme = "notrack"
 
 [params]
 author = 'Mandolyn Harkness'
-siteHeading = 'Mandolyn - History Blog'
+siteHeading = 'Mandolyn Harkness'
 mainSections = ['blog']
 
 [params.social]

@@ -2,38 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/resume/resume/</loc>
+    <loc>http://localhost:56456/resume/resume/</loc>
     <lastmod>2025-02-03T13:39:40-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/resume/</loc>
+    <loc>http://localhost:56456/resume/</loc>
     <lastmod>2025-02-03T13:39:40-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contact/contact/</loc>
+    <loc>http://localhost:56456/contact/contact/</loc>
     <lastmod>2025-02-03T11:26:28-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>http://localhost:56456/contact/</loc>
     <lastmod>2025-02-03T11:26:28-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>http://localhost:56456/blog/</loc>
     <lastmod>2025-02-03T10:57:26-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:56456/research/</loc>
+    <lastmod>2025-02-03T10:57:26-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:56456/</loc>
     <lastmod>2025-02-03T10:54:49-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/post-4/</loc>
+    <loc>http://localhost:56456/blog/post-4/</loc>
     <lastmod>2025-01-30T13:04:17-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/post-3/</loc>
+    <loc>http://localhost:56456/blog/post-3/</loc>
     <lastmod>2025-01-30T12:59:33-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/post-2/</loc>
+    <loc>http://localhost:56456/blog/post-2/</loc>
     <lastmod>2025-01-30T12:53:41-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/post-1/</loc>
+    <loc>http://localhost:56456/blog/post-1/</loc>
     <lastmod>2025-01-30T11:00:56-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:56456/tags/ancien-regime/</loc>
+    <lastmod>2025-01-30T11:00:56-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:56456/research/undergrad-research/</loc>
+    <lastmod>2025-01-30T11:00:56-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:56456/categories/</loc>
+    <lastmod>2025-01-30T11:00:56-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:56456/categories/eighteenth-century/</loc>
+    <lastmod>2025-01-30T11:00:56-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:56456/tags/enlightenment/</loc>
+    <lastmod>2025-01-30T11:00:56-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:56456/tags/feminism/</loc>
+    <lastmod>2025-01-30T11:00:56-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:56456/categories/feminist-history/</loc>
+    <lastmod>2025-01-30T11:00:56-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:56456/categories/french-history/</loc>
+    <lastmod>2025-01-30T11:00:56-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:56456/categories/literary-history/</loc>
+    <lastmod>2025-01-30T11:00:56-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:56456/tags/salon/</loc>
+    <lastmod>2025-01-30T11:00:56-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:56456/tags/salonni%C3%A8res/</loc>
+    <lastmod>2025-01-30T11:00:56-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:56456/categories/seventeenth-century/</loc>
+    <lastmod>2025-01-30T11:00:56-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:56456/tags/</loc>
+    <lastmod>2025-01-30T11:00:56-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:56456/research/scudery-research/</loc>
+    <lastmod>2025-01-30T11:00:56-05:00</lastmod>
   </url>
 </urlset>

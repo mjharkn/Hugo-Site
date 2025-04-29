@@ -1,8 +1,8 @@
 +++
 title = 'Taking Notes as an Historian'
 date = 2025-01-30T12:53:41-05:00
-Tags = []
-Categories = []
+Tags = ["note-taking", "research", "zotero"]
+Categories = ["digital history", "strategy", "digital tools", "eighteenth century", "french history"]
 draft = false
 +++
 
@@ -14,7 +14,7 @@ One of the ways that I center the audience while taking notes is by asking lots 
 
 [insert photo]
 
-I make an observation, then ask questions that my reader may ask if I were to include this bit of information in my final project. This note can potentially expand the depth of my topic by keeping my reader in mind and stimulating a discussion in my research early in the process. This helps me to enter into the conversation my argument and its significance, which is arguably the most important aspect of writing history. Kate Turabian discusses this importance in her introductory chapter of A Manual for Writers of Research Papers, Theses, and Dissertations, by asserting that readers will always ask "So what?" when reading your research.2 If you cannot answer, you run the risk of your work losing meaning.
+I make an observation, then ask questions that my reader may ask if I were to include this bit of information in my final project. This note can potentially expand the depth of my topic by keeping my reader in mind and stimulating a discussion in my research early in the process. This helps me to enter into the conversation my argument and its significance, which is arguably the most important aspect of writing history. Kate Turabian discusses this importance in her introductory chapter of A Manual for Writers of Research Papers, Theses, and Dissertations, by asserting that readers will always ask "So what?" when reading your research. If you cannot answer, you run the risk of your work losing meaning.
 
 The second reason is that viewing note-taking as mining increases efficiency—when one knows what they’re looking for, gathering information becomes a little less daunting and time-consuming by skillfully skimming and identifying key points. I differentiate between my notes by highlighting them in different colors. When annotating the same document mentioned above, I use pink to highlight general information that I want to consider, but probably won’t quote or reference directly. These mainly serve to push my research along and get me thinking. To distinguish the information that I’m more likely to cite in my paper, I use yellow. This helps me find the information I need when drafting and going back to my sources for information.
 

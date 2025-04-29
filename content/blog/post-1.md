@@ -1,7 +1,7 @@
 +++
 title = 'About This Blog & Me'
 date = 2025-01-30T11:00:56-05:00
-Tags = []
+Tags = ["personal", "blog"]
 Categories = []
 draft = false
 +++

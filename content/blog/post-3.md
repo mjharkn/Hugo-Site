@@ -1,8 +1,8 @@
 +++
 title = 'JSTOR AI'
 date = 2025-01-30T12:59:33-05:00
-Tags = []
-Categories = []
+Tags = ["JSTOR", "AI", "marriage", "research"]
+Categories = ["digital history", "digital tools", "french history"]
 draft = false
 +++
 

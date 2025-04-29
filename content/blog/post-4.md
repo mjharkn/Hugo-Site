@@ -1,8 +1,8 @@
 +++
 title = 'Historical Fact & Fallacy'
 date = 2025-01-30T13:04:17-05:00
-Tags = []
-Categories = []
+Tags = ["research", "strategy", "enlightenment", "hundred years war"]
+Categories = ["french history", "eighteenth century", "fourteenth century", "fifteenth century"]
 draft = false
 +++
 

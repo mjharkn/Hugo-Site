@@ -1,7 +1,7 @@
 +++
 title = 'Tender Heroes: Madeleine Scudéry’s Amitié Tendre in the French Heroic Romance'
 date = 2025-01-30T11:00:56-05:00
-Tags = ["salon", "salonnières", "ancien regime", "feminism"]
+Tags = ["salon", "ancien regime", "feminism"]
 Categories = ["feminist history", "seventeenth century", "french history", "literary history"]
 draft = false
 +++

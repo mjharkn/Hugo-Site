@@ -1,7 +1,7 @@
 +++
 title = 'Beyond the Walls of the Salon: The Public Intellectual Ambitions of the Enlightenment Salonnières'
 date = 2025-01-30T11:00:56-05:00
-Tags = ["salon", "salonnières", "enlightenment", "feminism"]
+Tags = ["salon", "enlightenment", "feminism"]
 Categories = ["feminist history", "eighteenth century", "french history"]
 draft = false
 +++

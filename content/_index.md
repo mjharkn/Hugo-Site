@@ -7,8 +7,8 @@ Welcome to my site!
 
 {{<image
     float="right"
-    width="15em"
+    width="17em"
     frame="true"
-    caption=""
+    caption="*La Lecture De Moliere* by Jean-Francois De Troy, 1728"
     src="img/chill.salon.jpg"
 >}}

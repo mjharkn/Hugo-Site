@@ -17,7 +17,15 @@ draft = false
 ## Abstract
 This paper explores how Madeleine de Scudéry redefined the French heroic romance through her concept of amitié tendre, or “loving friendship,” as articulated in The *Story of Sapho*, a volume from her monumental novel *Artamène ou le Grand Cyrus*. 
 
-In a genre historically dominated by male authors and valorized masculine heroism through warfare and conquest, Scudéry reorients the narrative toward female agency, emotional intelligence, and egalitarian love. By replacing action with dialogue, reimagining exotic settings as safe spaces for alternative romantic paradigms, and recasting heroism as gallant obedience to feminine authority, Scudéry subverts the traditional tropes of the heroic romance. 
+In a genre historically dominated by male authors and valorized masculine heroism through warfare and conquest, Scudéry reorients the narrative toward female agency, emotional intelligence, and egalitarian love. By replacing action with dialogue, reimagining exotic settings as safe spaces for alternative romantic paradigms, and recasting heroism as gallant obedience to feminine authority, Scudéry subverts the traditional tropes of the heroic romance.
+
+{{<image
+    float="left"
+    width="11em"
+    frame="true"
+    caption="Carte de Tendre, 1654"
+    src="img/carte.du.tendre.jpg"
+>}}
 
 This paper therefore argues that, through Sapho’s rejection of marriage in favor of amitié tendre, Scudéry constructs a proto-feminist vision of relational autonomy. This reinterpretation not only challenged contemporary norms but also influenced later thinkers such as Rousseau in their gendered formulations of love, domesticity, and authority. Ultimately, this paper seeks to position Scudéry’s narrative interventions as a foundational moment in the development of the novel and feminist literary thought.
 

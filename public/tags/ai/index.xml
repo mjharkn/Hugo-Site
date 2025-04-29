@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Mandolyn Harkness</title>
+        <link>http://localhost:1313/tags/ai/</link>
+        <description>Latest blog posts from Mandolyn Harkness</description>
+
+        
+        <language>en-us</language>
+        
+
+        
+
+        
+
+        
+
+        
+        <lastBuildDate>Thu, 30 Jan 2025 12:59:33 -0500</lastBuildDate>
+        
+
+        
+        <atom:link href="http://localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+        
+
+        
+            
+        <item>
+          <title>Historical Fact &amp; Fallacy</title>
+          <link>http://localhost:1313/blog/post-4/</link>
+          <pubDate>Thu, 30 Jan 2025 13:04:17 -0500</pubDate>
+          
+          <guid>http://localhost:1313/blog/post-4/</guid>
+          <description><!-- raw HTML omitted -->
+</description>
+        </item>
+            
+        <item>
+          <title>JSTOR AI</title>
+          <link>http://localhost:1313/blog/post-3/</link>
+          <pubDate>Thu, 30 Jan 2025 12:59:33 -0500</pubDate>
+          
+          <guid>http://localhost:1313/blog/post-3/</guid>
+          <description><!-- raw HTML omitted -->
+</description>
+        </item>
+            
+        <item>
+          <title>Taking Notes as an Historian</title>
+          <link>http://localhost:1313/blog/post-2/</link>
+          <pubDate>Thu, 30 Jan 2025 12:53:41 -0500</pubDate>
+          
+          <guid>http://localhost:1313/blog/post-2/</guid>
+          <description><!-- raw HTML omitted -->
+</description>
+        </item>
+            
+        <item>
+          <title>About This Blog &amp; Me</title>
+          <link>http://localhost:1313/blog/post-1/</link>
+          <pubDate>Thu, 30 Jan 2025 11:00:56 -0500</pubDate>
+          
+          <guid>http://localhost:1313/blog/post-1/</guid>
+          <description><!-- raw HTML omitted -->
+</description>
+        </item>
+            
+        
+    </channel>
+</rss>
